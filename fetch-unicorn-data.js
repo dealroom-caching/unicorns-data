@@ -8,11 +8,11 @@ const UNICORN_DATA_SOURCES = {
     filename: 'companies.json'
   },
   'mafia': {
-    url: 'https://docs.google.com/spreadsheets/d/17VXE9EDB4Zp0S2vqcbYCfvLXBopiCd8timD7Cc0Vjxk/gviz/tq?tqx=out:json&gid=0',
+    url: 'https://docs.google.com/spreadsheets/d/17VXE9EDB4Zp0S2vqcbYCfvLXBopiCd8timD7Cc0Vjxk/gviz/tq?tqx=out:json&gid=1308157446',
     filename: 'mafia.json'
   },
   'founders': {
-    url: 'https://docs.google.com/spreadsheets/d/1ewW9Kul0CgknzcwzJ3SvEfS5hjVH0LQuCwdR-zBmbOY/gviz/tq?tqx=out:json&gid=0',
+    url: 'https://docs.google.com/spreadsheets/d/1ewW9Kul0CgknzcwzJ3SvEfS5hjVH0LQuCwdR-zBmbOY/gviz/tq?tqx=out:json&gid=1896821889',
     filename: 'founders.json'
   }
 };
@@ -125,4 +125,6 @@ async function main() {
 }
 
 main();
+
+
 
