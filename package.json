@@ -1,0 +1,16 @@
+{
+  "name": "unicorns-data",
+  "version": "1.0.0",
+  "description": "Automated cache for unicorn data from Google Sheets JSON endpoints",
+  "type": "module",
+  "scripts": {
+    "fetch-unicorn-data": "node fetch-unicorn-data.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dealroom-caching/unicorns-data.git"
+  },
+  "author": "Kjeld",
+  "license": "MIT",
+  "homepage": "https://github.com/dealroom-caching/unicorns-data#readme"
+}
