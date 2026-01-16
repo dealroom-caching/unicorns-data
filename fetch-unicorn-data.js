@@ -14,6 +14,10 @@ const UNICORN_DATA_SOURCES = {
   'founders': {
     url: 'https://docs.google.com/spreadsheets/d/1ewW9Kul0CgknzcwzJ3SvEfS5hjVH0LQuCwdR-zBmbOY/gviz/tq?tqx=out:json&gid=1896821889',
     filename: 'founders.json'
+  },
+  'share_of_FTE_data': {
+    url: 'https://docs.google.com/spreadsheets/d/1ArkMsWfTgzdSJrZlkXsXSpmVI4GPIhurEvHzCwHVgD0/gviz/tq?tqx=out:json&gid=1304971743',
+    filename: 'share-of-FTE-data.json'
   }
 };
 
