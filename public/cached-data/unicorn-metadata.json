@@ -1,16 +1,18 @@
 {
-  "lastUpdated": "2026-01-16T04:35:26.976Z",
-  "timestamp": 1768538126976,
+  "lastUpdated": "2026-01-16T16:18:22.353Z",
+  "timestamp": 1768580302353,
   "sources": [
     "companies",
     "mafia",
-    "founders"
+    "founders",
+    "share_of_FTE_data"
   ],
-  "totalSources": 3,
-  "successfulSources": 3,
+  "totalSources": 4,
+  "successfulSources": 4,
   "savedFiles": [
     "companies.json",
     "mafia.json",
-    "founders.json"
+    "founders.json",
+    "share-of-FTE-data.json"
   ]
 }
